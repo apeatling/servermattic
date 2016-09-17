@@ -2,4 +2,4 @@
 
 git clone git@github.com:WordPress/WordPress.git /var/www
 
-service ngnix restart
+service nginx restart
